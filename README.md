@@ -1,0 +1,11 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>STAINWOOD</title>
+</head>
+<body>
+    <a href="https://enigmatiquednb-collab.github.io/STAINWOOL/Коммерческое%20предложение%20Sikkens,%20Oswald%20(1).pdf">Открыть PDF</a>
+</body>
+</html>
